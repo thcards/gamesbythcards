@@ -1,5 +1,5 @@
 :root {
-    background-image: url(./imagens/peakpx.jpg);
+    background-image: url(./Imagens/peakpx.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position-y: center ;
@@ -12,7 +12,7 @@
 }
 
 .tema-claro {
-    background-image: url(./imagens/pxfuel.jpg);
+    background-image: url(./Imagens/pxfuel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: center ;
