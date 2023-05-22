@@ -1,9 +1,9 @@
 :root {
-    background-color:rgb(20, 77, 131) ;
+    background-color:rgb(0, 0, 0) ;
     background-image: url(./Imagens/peakpx.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
-    background-position-y: center ;
+    background-size: 100%;
+    background-position-y: 0 ;
    
     image-rendering: pixelated;      
 
@@ -16,8 +16,8 @@
     background-color:rgb(94, 75, 116) ;
     background-image: url(./Imagens/pxfuel.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: center ;
+    background-size: 120%;
+    background-position-y: 0 ;
 
     image-rendering: pixelated;      
 
