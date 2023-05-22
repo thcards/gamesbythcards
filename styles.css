@@ -94,8 +94,8 @@ color: #fff
         background: var(--cor-de-fundo-link);
         color: var(--cor-do-texto-link);
         position: relative;
-        margin-left: 470px;
-        margin-right: 470px;
+        margin-left: center;
+        margin-right: center;
         margin-bottom: 15px;
         margin-top: 15px;
         height: 50px; 
